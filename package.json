@@ -1,0 +1,11 @@
+{
+  "name": "sara-console-show",
+  "version": "1.0.0",
+  "description": "",
+  "main": "show.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
